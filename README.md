@@ -1,5 +1,5 @@
 ### Hi I am Nikolaj 👋
-## Back - end developer from Kazahstan 🧑‍💼 
+## Back - end developer from Kazakhstan 🧑‍💼 
 ### I work in technology stack: Django/Flask, PostgreSQL, Celery, Redis, HTML/CSS/JS
 ### Additional skills: Linux, Heroku, Git, Jira
 ### Contact with me:

@@ -17,9 +17,9 @@ Greetings! I'm Nikolaj, a seasoned Python developer based in Astana, Kazakhstan.
 
 ## Projects
 
-- [NixBlog]: https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog
-- [Aniverse]: https://github.com/Nikolaj-dev/Aniverse
-- [CourseBot]: https://github.com/Nikolaj-dev/aiogrambot_testcase
+- NixBlog: [NixBlog](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog)
+- Aniverse: [Aniverse](https://github.com/Nikolaj-dev/Aniverse)
+- CourseBot: [CourseBot](https://github.com/Nikolaj-dev/aiogrambot_testcase)
 
 ## Get in Touch
 

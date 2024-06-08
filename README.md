@@ -1,19 +1,21 @@
-# Hi there, I'm Nikolaj 👋
+# Hi there, I'm Nikolay 👋
 
-Greetings! I'm Nikolaj, a seasoned Python developer based in Astana, Kazakhstan. I bring a diverse set of skills to the table, including web development, asynchronous programming, databases, and expertise in testing and performance optimization. Here are some key technologies I work with:
+I am a Python Developer with over 1.5+ years of experience in software development, specializing in
+backend systems, API development, and integrations.
+
 
 ## My Skills
 
-- **Programming Languages**: Python, JavaScript
-- **Frameworks**: Django, Flask, FastAPI
-- **Asynchronous Programming**: Celery, RabbitMQ, Redis, Aiogram
-- **Testing**: Unit Testing
-- **Databases**: SQLAlchemy, PostgreSQL
-- **Containerization**: Docker
-- **Operating Systems**: Linux
-- **Web Servers**: Nginx
+- **Programming Languages**: Python
+- **Web Frameworks**: Django, Flask, FastAPI
+- **Asynchronous Processing**: Celery, Redis, RabbitMQ
+- **Database Management**: PostgreSQL, SQLAlchemy
+- **Search Engine**: Elasticsearch
+- **Containerization and Orchestration**: Docker, Docker Compose
+- **Server Management**: Linux, Nginx
+- **Frontend Development**: HTML, CSS, JavaScript
+- **Cloud Services**: Azure
 - **Version Control**: Git
-- **Frontend**: HTML, CSS
 
 ## Projects
 
@@ -25,7 +27,7 @@ Greetings! I'm Nikolaj, a seasoned Python developer based in Astana, Kazakhstan.
 
 - 📧 Email: nikolajpetrishchev@gmail.com
 - 💼 LinkedIn: [Nikolaj](https://www.linkedin.com/in/nikolaj-dev/)
-- 📱 Telegram: [Nikolaj](https://t.me/NikolajPetrishchev)
+- 📱 Telegram: [Nikolaj](https://t.me/NikolajPetrichshev)
 
 
 Feel free to reach out if you have any questions or if you're interested in collaboration. Let's build cool things together!

@@ -1,19 +1,20 @@
 # Hi there, I'm Nikolay 👋
 
-I am a Python Developer with over 1.5+ years of experience in software development, specializing in
-backend systems, API development, and integrations.
+Hello! My name is Nikolay.
+I am a student and a Python developer specializing in API development and integrations.
+I am a backend developer, but I also have experience in developing cross-platform applications using React Native.
 
 
 ## My Skills
 
-- **Programming Languages**: Python
-- **Web Frameworks**: Django, Flask, FastAPI
-- **Asynchronous Processing**: Celery, Redis, RabbitMQ
+- **Programming Languages**: Python, JavaScript
+- **Web Frameworks**: Django, Flask, FastAPI, aiohttp, httpx
+- **Tasks queues and message brokers**: Celery, Redis, RabbitMQ
 - **Database Management**: PostgreSQL, SQLAlchemy
 - **Search Engine**: Elasticsearch
 - **Containerization and Orchestration**: Docker, Docker Compose
-- **Server Management**: Linux, Nginx
-- **Frontend Development**: HTML, CSS, JavaScript
+- **Server Management**: Linux, Nginx, Gunicorn
+- **Frontend Development**: HTML, CSS, React Native, Expo
 - **Cloud Services**: Azure
 - **Version Control**: Git
 
@@ -25,11 +26,11 @@ backend systems, API development, and integrations.
 
 ## Get in Touch
 
-- 📧 Email: nikolajpetrishchev@gmail.com
-- 💼 LinkedIn: [Nikolaj](https://www.linkedin.com/in/nikolaj-dev/)
-- 📱 Telegram: [Nikolaj](https://t.me/NikolajPetrichshev)
+- 📧 Email: nikolaypetrichshev@gmail.com
+- 💼 LinkedIn: [Nikolay](www.linkedin.com/in/nikolay-petrichshev)
+- 📱 Telegram: [Nikolay](https://t.me/NikolayPetrichshev)
 
 
-Feel free to reach out if you have any questions or if you're interested in collaboration. Let's build cool things together!
+Feel free to reach out if you have any questions or if you're interested in collaboration.
 
 

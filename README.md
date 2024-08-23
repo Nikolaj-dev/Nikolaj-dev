@@ -27,7 +27,7 @@ I am a backend developer, but I also have experience in developing cross-platfor
 ## Get in Touch
 
 - 📧 Email: nikolaypetrichshev@gmail.com
-- 💼 LinkedIn: [Nikolay](www.linkedin.com/in/nikolay-petrichshev)
+- 💼 LinkedIn: [Nikolay](https://www.linkedin.com/in/nikolay-petrichshev/)
 - 📱 Telegram: [Nikolay](https://t.me/NikolayPetrichshev)
 
 

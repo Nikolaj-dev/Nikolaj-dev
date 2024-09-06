@@ -71,6 +71,15 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+## 📌 Extra Pins
+
+Check out some of my key projects:
+
+- [Project One](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog) - A brief description of what this project does.
+- [Project Two](https://github.com/Nikolaj-dev/Aniverse) - Another description highlighting key features.
+- [Project Three](https://github.com/Nikolaj-dev/aiogrambot_testcase) - A third project description to showcase your work.
+
+
 ## 📈 GitHub Stats
 
 

@@ -10,6 +10,10 @@ I am a **Python Software Engineer** with over a year of experience in developing
 - 📍 Based in **Astana, Kazakhstan**
 - 🎓 Currently pursuing a **Bachelor's degree in Information Systems and Technology** at **Swiss International Institute, Lausanne**
 - 🌐 Connect with me on [Telegram](https://t.me/NikolayPetrichshev) / [LinkedIn](https://www.linkedin.com/in/nikolay-petrichshev/) / [Email](nikolaypetrichshev@gmail.com)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat)
+
   
 ---
 
@@ -71,8 +75,6 @@ I am a **Python Software Engineer** with over a year of experience in developing
 
 ![Nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolaj-dev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolaj-dev&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Nikolaj-dev&color=blue&style=flat)
-
 
 
 ---

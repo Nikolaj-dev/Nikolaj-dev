@@ -17,6 +17,8 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ## 🛠️ Technical Skills
 
 **Languages:**
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
@@ -26,6 +28,8 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 
 **Web Frameworks:**
+
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
@@ -38,6 +42,8 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Asynchronous Tools:**
+
+
 ![aiohttp](https://img.shields.io/badge/Aiohttp-003F7F?style=for-the-badge&logo=aiohttp&logoColor=white)
 
 
@@ -50,6 +56,8 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases:**
+
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
@@ -59,6 +67,8 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![Elastic Search](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 **DevOps & Deployment:**
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
@@ -74,12 +84,16 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Web Technologies:**
+
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Version Control:**
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 

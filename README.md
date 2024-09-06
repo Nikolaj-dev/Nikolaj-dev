@@ -71,13 +71,27 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📌 Extra Pins
+## 📌 Highlighted Projects
 
-Check out some of my key projects:
+### [Repository Name 1](https://github.com/Nikolaj-dev/aiogrambot_testcase)
+A short description of what this repository does and why it's important.
 
-- [Project One](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog) - A brief description of what this project does.
-- [Project Two](https://github.com/Nikolaj-dev/Aniverse) - Another description highlighting key features.
-- [Project Three](https://github.com/Nikolaj-dev/aiogrambot_testcase) - A third project description to showcase your work.
+![Repository Name 1](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=aiogrambot_testcase)
+
+---
+
+### [Repository Name 2](https://github.com/Nikolaj-dev/Aniverse)
+A short description of what this repository does and why it's important.
+
+![Repository Name 2](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=Aniverse)
+
+---
+
+### [Repository Name 3](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog)
+A short description of what this repository does and why it's important.
+
+![Repository Name 3](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=django-mvt-postgresql-postblog)
+
 
 
 ## 📈 GitHub Stats

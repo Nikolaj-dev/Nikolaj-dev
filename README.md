@@ -97,6 +97,7 @@ A website where you can express your thoughts.
 ## 📈 GitHub Stats
 
 
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Nikolaj-dev&show_icons=true&hide_title=true&count_private=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolaj-dev&layout=compact&theme=radical)
 
 

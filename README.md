@@ -9,7 +9,7 @@ I am a **Python Software Engineer** with over a year of experience in developing
 
 - 📍 Based in **Astana, Kazakhstan**
 - 🎓 Currently pursuing a **Bachelor's degree in Information Systems and Technology** at **Swiss International Institute, Lausanne**.
-- 🌐 Connect with me on [Telegram](https://t.me/NikolayPetrichshev) [LinkedIn](https://www.linkedin.com/in/nikolay-petrichshev/)
+- 🌐 Connect with me on [Telegram](https://t.me/NikolayPetrichshev) / [LinkedIn](https://www.linkedin.com/in/nikolay-petrichshev/) / [Email](nikolaypetrichshev@gmail.com)
 
 ---
 

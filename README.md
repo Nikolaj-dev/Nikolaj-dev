@@ -3,13 +3,16 @@
 
 ---
 
-
 ## 🚀 About Me
+
 I am a **Python Software Engineer** with over a year of experience in developing scalable and efficient backend systems, API integrations, and automations. I have worked on diverse projects ranging from designing RESTful APIs to building web applications using **Django**, **Flask**, and **FastAPI**. I thrive in environments where I can apply my skills in messaging queues, databases, and server management.
 
 - 📍 Based in **Astana, Kazakhstan**
-- 🎓 Currently pursuing a **Bachelor's degree in Information Systems and Technology** at **Swiss International Institute, Lausanne**.
+- 🎓 Currently pursuing a **Bachelor's degree in Information Systems and Technology** at **Swiss International Institute, Lausanne**
 
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://t.me/NikolayPetrichshev">
@@ -23,6 +26,7 @@ I am a **Python Software Engineer** with over a year of experience in developing
   </a>
 </p>
 
+---
 
 ---
 

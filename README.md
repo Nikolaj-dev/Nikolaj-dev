@@ -71,26 +71,26 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📌 Highlighted Projects
+## 📌 Projects
 
-### [Repository Name 1](https://github.com/Nikolaj-dev/aiogrambot_testcase)
-A short description of what this repository does and why it's important.
+### [CurrencyBot](https://github.com/Nikolaj-dev/aiogrambot_testcase)
+The currency bot provides daily notifications.
 
-![Repository Name 1](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=aiogrambot_testcase)
-
----
-
-### [Repository Name 2](https://github.com/Nikolaj-dev/Aniverse)
-A short description of what this repository does and why it's important.
-
-![Repository Name 2](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=Aniverse)
+![CurrencyBot](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=aiogrambot_testcase)
 
 ---
 
-### [Repository Name 3](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog)
-A short description of what this repository does and why it's important.
+### [AnimeForum](https://github.com/Nikolaj-dev/Aniverse)
+Forum for anime fans.
 
-![Repository Name 3](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=django-mvt-postgresql-postblog)
+![AnimeForum](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=Aniverse)
+
+---
+
+### [Nix BLog](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog)
+A website where you can express your thoughts.
+
+![Nix BLog](https://github-readme-stats.vercel.app/api/pin/?username=Nikolaj-dev&repo=django-mvt-postgresql-postblog)
 
 
 

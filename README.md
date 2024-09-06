@@ -26,10 +26,6 @@ I am a **Python Software Engineer** with over a year of experience in developing
   </a>
 </p>
 
----
-
----
-
 
 ## 🛠️ Technical Skills
 

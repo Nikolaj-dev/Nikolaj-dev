@@ -1,36 +1,52 @@
-# Hi there, I'm Nikolay 👋
+# 👋 Hi, I'm Nikolay Petrichshev!  
+**Python Software Engineer | Backend Developer | API Specialist**
 
-Hello! My name is Nikolay.
-I am a student and a Python developer specializing in API development and integrations.
-I am a backend developer, but I also have experience in developing cross-platform applications using React Native.
+---
 
+## 🚀 About Me
+I am a **Python Software Engineer** with over a year of experience in developing scalable and efficient backend systems, API integrations, and automations. I have worked on diverse projects ranging from designing RESTful APIs to building web applications using **Django**, **Flask**, and **FastAPI**. I thrive in environments where I can apply my skills in messaging queues, databases, and server management.
 
-## My Skills
+- 📍 Based in **Astana, Kazakhstan**
+- 🎓 Currently pursuing a **Bachelor's degree in Information Systems and Technology** at **Swiss International Institute, Lausanne**.
+- 🌐 Connect with me on [Telegram](https://t.me/NikolayPetrichshev)
 
-- **Programming Languages**: Python, JavaScript
-- **Web Frameworks**: Django, Flask, FastAPI, aiohttp, httpx
-- **Tasks queues and message brokers**: Celery, Redis, RabbitMQ
-- **Database Management**: PostgreSQL, SQLAlchemy
-- **Search Engine**: Elasticsearch
-- **Containerization and Orchestration**: Docker, Docker Compose
-- **Server Management**: Linux, Nginx, Gunicorn
-- **Frontend Development**: HTML, CSS, React Native, Expo
-- **Cloud Services**: Azure
-- **Version Control**: Git
+---
 
-## Projects
+## 🛠️ Technical Skills
+**Languages & Frameworks:**
+- **Python**, **Django**, **Flask**, **FastAPI**
+- **HTML/CSS** for frontend integration
 
-- MVT: [NixBlog](https://github.com/Nikolaj-dev/django-mvt-postgresql-postblog)
-- DRF: [Aniverse](https://github.com/Nikolaj-dev/Aniverse)
-- Aiogram: [CourseBot](https://github.com/Nikolaj-dev/aiogrambot_testcase)
+**Databases:**
+- **PostgreSQL**, **Redis**
 
-## Get in Touch
+**Tools & Technologies:**
+- **Celery**, **RabbitMQ**
+- **Docker**, **Docker Compose**
+- **Linux (Debian, Ubuntu)**, **Nginx**
+- **Git**, **GitHub**, **Jira**
 
-- 📧 Email: nikolaypetrichshev@gmail.com
-- 💼 LinkedIn: [Nikolay](https://www.linkedin.com/in/nikolay-petrichshev/)
-- 📱 Telegram: [Nikolay](https://t.me/NikolayPetrichshev)
+## 📈 GitHub Stats
 
+![Nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolaj-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolaj-dev&layout=compact&theme=radical)
 
-Feel free to reach out if you have any questions or if you're interested in collaboration.
+---
+
+## 📚 Certifications
+- **Python Web Application Development** with Django, *IT Step Academy, May 2023*
+- **IELTS General Training**, Overall Band Score 6.0, *August 2022*
+
+---
+
+## 🌱 Currently Learning
+- **Advanced API development** with FastAPI and Flask
+- **Distributed systems** and microservices architecture
+
+---
+
+## 📬 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikolaypetrichshev)
+- 📧 Email me at: nikolaypetrichshev@gmail.com
 
 

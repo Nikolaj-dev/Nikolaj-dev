@@ -73,9 +73,8 @@ I am a **Python Software Engineer** with over a year of experience in developing
 
 ## 📈 GitHub Stats
 
-![Nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolaj-dev&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolaj-dev&layout=compact&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nikolaj-dev&theme=dracula)
 
 
 ---
@@ -89,11 +88,4 @@ I am a **Python Software Engineer** with over a year of experience in developing
 ## 🌱 Currently Learning
 - **Advanced API development** with FastAPI and Flask
 - **Distributed systems** and microservices architecture
-
----
-
-## 📬 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikolaypetrichshev)
-- 📧 Email me at: nikolaypetrichshev@gmail.com
-
 

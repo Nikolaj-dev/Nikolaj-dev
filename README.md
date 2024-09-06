@@ -8,6 +8,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=logo&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ## 🚀 About Me
 I am a **Python Software Engineer** with over a year of experience in developing scalable and efficient backend systems, API integrations, and automations. I have worked on diverse projects ranging from designing RESTful APIs to building web applications using **Django**, **Flask**, and **FastAPI**. I thrive in environments where I can apply my skills in messaging queues, databases, and server management.
 

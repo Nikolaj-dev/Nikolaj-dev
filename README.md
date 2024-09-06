@@ -75,7 +75,7 @@ I am a **Python Software Engineer** with over a year of experience in developing
 
 ![Nikolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolaj-dev&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolaj-dev&layout=compact&theme=radical)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Nikolaj-dev&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nikolaj-dev&theme=dracula)
 
 
 ---
